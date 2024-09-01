@@ -10,7 +10,7 @@ export default {
         'slowSpin': 'spin 3s linear infinite',
       },
       backgroundImage: {
-        'youtubeChannel': "url('src/assets/images/bg-youtube-ad.jpg')",
+        'youtubeChannel': "url('/bg-youtube-ad.jpg')",
       },
       fontFamily: {
         Roboto: ['Roboto', 'sans-serif'],
