@@ -9,7 +9,7 @@ Recreated the **BINI Website** using designs from web designers I discovered on 
 ### Build with:
 
 ✨ ReactJS  
-✨ Tailwind CSS
+✨ Tailwind CSS  
 ✨ Vite
 
 ## Screenshots of the Project 📸
