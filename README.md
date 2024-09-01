@@ -18,4 +18,5 @@ Recreated the **BINI Website** using designs from web designers I discovered on 
 
 <h3 align='center'>Home Page 🏡</h3>
 
-![Homepage](https://github.com/Yaodad/Resibomo/assets/126692737/5904077b-860f-4fbd-89c3-86424bea040e)
+![Homepage](https://github.com/user-attachments/assets/ad00a273-307e-4e2e-8753-874737b5c381)
+
